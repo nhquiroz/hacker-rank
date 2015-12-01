@@ -17,4 +17,5 @@ My solutions for Hacker Rank problems
 #### Introduction
 
 - [Hello World!](https://www.hackerrank.com/challenges/py-hello-world)  
-- [Raw Input](https://www.hackerrank.com/challenges/python-raw-input)
+- [Raw Input](https://www.hackerrank.com/challenges/python-raw-input)  
+- [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)
