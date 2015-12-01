@@ -18,4 +18,5 @@ My solutions for Hacker Rank problems
 
 - [Hello World!](https://www.hackerrank.com/challenges/py-hello-world)  
 - [Raw Input](https://www.hackerrank.com/challenges/python-raw-input)  
-- [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)
+- [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)  
+- [Python Division](https://www.hackerrank.com/challenges/python-division)
