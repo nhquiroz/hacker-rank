@@ -10,7 +10,6 @@ My solutions for Hacker Rank problems
 - [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)  
 - [Java Loops](https://www.hackerrank.com/challenges/java-loops)  
 
----   
 
 ## JavaScript  
 ### 7 Days of JavaScript
@@ -18,7 +17,6 @@ My solutions for Hacker Rank problems
 - [Day 1: Print The Input](https://www.hackerrank.com/contests/7days-javascript/challenges/print-input-1)    
 - [Day 1: If Else Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-if-else-statements)  
 
----  
 
 ## Python
 ### Introduction
