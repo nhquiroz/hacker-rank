@@ -3,7 +3,6 @@ My solutions for Hacker Rank problems
 
 ## Problems Solved
 
-
 ### Java  
 #### Introduction
 - [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)  
@@ -12,6 +11,16 @@ My solutions for Hacker Rank problems
 - [Java Stdin and Stdout 2](https://www.hackerrank.com/challenges/java-stdin-stdout)  
 - [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)  
 - [Java Loops](https://www.hackerrank.com/challenges/java-loops)  
+
+---   
+
+### JavaScript  
+#### 7 Days of JavaScript
+-[Day 1: HelloWorld!](https://www.hackerrank.com/contests/7days-javascript/challenges/helloworld-1)  
+-[Day 1: Print The Input](https://www.hackerrank.com/contests/7days-javascript/challenges/print-input-1)    
+-[Day 1: If Else Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-if-else-statements)  
+
+---  
 
 ### Python
 #### Introduction
