@@ -17,6 +17,7 @@ My solutions for Hacker Rank problems
 - [Day 1: Print The Input](https://www.hackerrank.com/contests/7days-javascript/challenges/print-input-1)    
 - [Day 1: If Else Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-if-else-statements)  
 - [Day 2: Switch Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-switch-statements)  
+- [Day 2: Variables](https://www.hackerrank.com/contests/7days-javascript/challenges/js-variables)  
 
 
 ## Python
