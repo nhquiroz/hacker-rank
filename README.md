@@ -16,9 +16,9 @@ My solutions for Hacker Rank problems
 
 ### JavaScript  
 #### 7 Days of JavaScript
--[Day 1: HelloWorld!](https://www.hackerrank.com/contests/7days-javascript/challenges/helloworld-1)  
--[Day 1: Print The Input](https://www.hackerrank.com/contests/7days-javascript/challenges/print-input-1)    
--[Day 1: If Else Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-if-else-statements)  
+- [Day 1: HelloWorld!](https://www.hackerrank.com/contests/7days-javascript/challenges/helloworld-1)  
+- [Day 1: Print The Input](https://www.hackerrank.com/contests/7days-javascript/challenges/print-input-1)    
+- [Day 1: If Else Statements](https://www.hackerrank.com/contests/7days-javascript/challenges/js-if-else-statements)  
 
 ---  
 
