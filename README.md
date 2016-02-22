@@ -20,6 +20,7 @@ My solutions for Hacker Rank problems
 - [Day 2: Variables](https://www.hackerrank.com/contests/7days-javascript/challenges/js-variables)  
 - [Day 2: Introducing Arithmetic Operators](https://www.hackerrank.com/contests/7days-javascript/challenges/js-arithmetic-operators)  
 - [Day 2: Objects](https://www.hackerrank.com/contests/7days-javascript/challenges/objects)  
+- [Day 3: Display Information from an Object](https://www.hackerrank.com/contests/7days-javascript/challenges/display-infromation-from-an-object)  
 
 
 ## Python
