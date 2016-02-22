@@ -1,10 +1,10 @@
 function displayInformation() {
      // var library is defined, use it to print the information
-    for (var i = 0; i < library.length; i++) {
-        if (library[i].readingStatus) {
-            console.log("Already read '" + library[i].title + "' by " + library[i].author + ".");
+    for (book in library) {
+        if (library[book].readingStatus) {
+            console.log("Already read '" + library[book].title + "' by " + library[book].author + ".");
         } else {
-            console.log("You still need to read '" + library[i].title + "' by " + library[i].author + ".");
+            console.log("You still need to read '" + library[book].title + "' by " + library[book].author + ".");
         }
     }
 } 
