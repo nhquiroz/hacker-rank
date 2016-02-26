@@ -1,11 +1,14 @@
-function processData(input) {
+"use strict";
+
+
+function processData() {
     console.log("Hello World!");
 } 
 
 
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
-_input = "";
+var _input = "";
 process.stdin.on("data", function (input) {
     _input += input;
 });
