@@ -1,3 +1,3 @@
 function processData(input) {
-	console.log('Hello World!');
+	console.log(input);
 }
