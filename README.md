@@ -1,4 +1,4 @@
 # Hacker Rank
 My solutions for Hacker Rank problems
 
-## Problems solved: 38
+## Problems solved: 39
