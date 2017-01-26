@@ -1,7 +1,7 @@
 function main() {
-	var n = parseInt(readLine());
-	var arr = readLine().split(' ');
-	arr = arr.map(Number);
+  var n = parseInt(readLine());
+  var arr = readLine().split(' ');
+  arr = arr.map(Number);
 
-	console.log(arr.reverse().join(' '));
+  console.log(arr.reverse().join(' '));
 }

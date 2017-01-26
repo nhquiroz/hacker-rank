@@ -5,7 +5,7 @@ function main() {
   try {
     new Array(s);
     console.log(s);
-  } catch(err) {
+  } catch (err) {
     console.log('Bad String');
   }
 }
